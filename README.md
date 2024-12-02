@@ -9,6 +9,13 @@ Proyecto realizado para la asignatura de "Programación en Paralelo". El objetiv
 # Descripción General
 Este repositorio preserva el progreso y trabajo colaborativo realizado en el proyecto **Blur en Imágenes usando CUDA** realizando un proyecto integrador para la asignatura optativa **Programación en Paralelo** impartida en el séptimo semestre de la licenciatura en Ingeniería de Software de la Universidad Autónoma de Yucatán, vinculación con la Unidad Multidisciplinaria Tizimín. El proyecto pretende optimizar el proceso de blur mediante el uso de paralelismo, aprovechando los hilos de procesamiento que ofrece la GPU, lo que permite una mejora significativa en la velocidad de ejecución en comparación con versiones secuenciales.
 
+# Imagen de entrada e imagen de salida (resultado)
+Esta es la imagen que se ingreso, misma a la que se le aplicó el blur
+[Imagen de entrada](lenna.jpg)
+Esta es la imagen que se devolvió es decir, la imagen de entrada despés de aplicarle el blur.
+[Imagen de salida](blurred_image_cuda.jpg)
+
+
 # Índice
 * [Propuesta del proyecto](Propuesta_Proyecto_PP.pdf)
 * [Link del proyecto en Google Colab](https://colab.research.google.com/drive/1RDja2K-to6apKmBiHaswSrCkpTRf2X4y?usp=sharing)
