@@ -11,9 +11,9 @@ Este repositorio preserva el progreso y trabajo colaborativo realizado en el pro
 
 # Imagen de entrada e imagen de salida (resultado)
 Esta es la imagen que se ingreso, misma a la que se le aplicó el blur
-[Imagen de entrada](lenna.jpg)
+![Imagen de entrada](lenna.jpg)
 Esta es la imagen que se devolvió es decir, la imagen de entrada despés de aplicarle el blur.
-[Imagen de salida](blurred_image_cuda.jpg)
+![Imagen de salida](blurred_image_cuda.jpg)
 
 
 # Índice
