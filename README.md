@@ -11,5 +11,5 @@ Este repositorio preserva el progreso y trabajo colaborativo realizado en el pro
 
 # Índice
 * [Propuesta del proyecto](Propuesta_Proyecto_PP.pdf)
-* [Link del proyecto en Google Colab](link_herexdxd)
-* [Link del vídeo demostración](link_here_tooxdxd)
+* [Link del proyecto en Google Colab](https://colab.research.google.com/drive/1RDja2K-to6apKmBiHaswSrCkpTRf2X4y?usp=sharing)
+* [Documento SpeedUp](SpeedUp.pdf)
